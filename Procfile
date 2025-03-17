@@ -1,1 +1,1 @@
-web: gunicorn BRapp.wsgi:application
+web: gunicorn seApplication.wsgi:application
